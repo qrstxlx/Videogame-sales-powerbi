@@ -2,7 +2,7 @@
 
 A hands-on Power BI project analyzing historical sales data for over 16,500 video games. Built this to explore long-term industry trends, compare platform lifecycles, and see how player tastes change across different parts of the world.
 
-![Dashboard Preview](dashboard_preview.png)
+![Dashboard Preview](image/dashboard_preview.png)
 
 ---
 
